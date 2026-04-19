@@ -1,16 +1,12 @@
-## Hi there 👋
+Hey, I'm Sudarshan 👋
+DevOps Engineer building open-source infrastructure tools.
+MS in Computer Science from Illinois Institute of Technology, Chicago.
+Currently working as a DevOps Engineer — focused on AWS, Terraform, Kubernetes, and CI/CD pipeline automation.
+What I'm building
 
-<!--
-**sudarshan8417/sudarshan8417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 tfdrift — Open-source Terraform drift detection, reporting, and auto-remediation CLI. The actively maintained replacement for driftctl.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I work with
+AWS Terraform Kubernetes Jenkins GitLab CI Python Bash Linux Docker Prometheus
+Let's connect 
+https://www.linkedin.com/in/sudarshan-thakur-308375209/
