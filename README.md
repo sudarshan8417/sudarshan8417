@@ -4,7 +4,7 @@ DevOps Engineer building open-source infrastructure tools.
 
 **MS in Computer Science** from Illinois Institute of Technology, Chicago. 
 
-Currently working as a DevOps Engineer — focused on AWS, Terraform, Kubernetes, and CI/CD pipeline automation.
+Currently working as a DevOps Engineer focused on AWS, Terraform, Kubernetes, and CI/CD pipeline automation.
 
 ### What I'm building
 
